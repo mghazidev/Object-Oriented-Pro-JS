@@ -39,4 +39,4 @@ Warrior.target(Wizard)
 
 
 
-//In this example we are using polimorphism to give the different act to each hero. In short we are doing different things in the same object using polymorphism
+//In this example we are using polymorphism to give the different act to each hero. In short we are doing different things in the same object/Method using polymorphism
